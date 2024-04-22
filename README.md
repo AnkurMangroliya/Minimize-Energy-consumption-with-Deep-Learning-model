@@ -40,5 +40,3 @@ The percentage of energy saved varies depending on the experiments. The percenta
 
 ![](savings.png)
 =======
-# Minimize-Energy-consumption-with-Deep-Learning-model
->>>>>>> 8450fc6053bd3bc3a15eb1b357b544f87b91468b
