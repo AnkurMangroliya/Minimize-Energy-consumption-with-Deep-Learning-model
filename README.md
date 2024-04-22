@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minimize-Energy-consumption-with-Deep-Learning-model
 Use Deep Q-Learning model to optimize energy consumption of a data center
 
@@ -39,3 +40,6 @@ The learning phase uses "Experience Replay" technique to train.
 The percentage of energy saved varies depending on the experiments. The percentage is determined simulating one full year cycle. The sample below achieved 68% energy consumption thanks to AI compared to the usual integrated cooling system. Both models aim to maintain the server within an optimal temperature range of 18° to 24°C. The simulation is performed for time steps of one minute over a full year.
 
 ![](savings.png)
+=======
+# Minimize-Energy-consumption-with-Deep-Learning-model
+>>>>>>> 8450fc6053bd3bc3a15eb1b357b544f87b91468b
